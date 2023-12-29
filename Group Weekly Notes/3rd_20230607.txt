@@ -1,0 +1,3 @@
+Summarize the division of labor among the components
+
+Identify underlying logic problems that exist (candidate code, decomposition)

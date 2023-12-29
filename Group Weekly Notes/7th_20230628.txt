@@ -1,0 +1,2 @@
+Completed the breakdown and presentation of bcnf
+Performed extensive testing of the program to ensure correctness

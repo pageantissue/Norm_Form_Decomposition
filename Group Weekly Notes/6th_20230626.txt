@@ -1,0 +1,2 @@
+Solved the problem of inadequate bcnf decomposition
+Preliminary form for presenting bcnf decomposition results
